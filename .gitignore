@@ -56,3 +56,7 @@ npm-debug.log*
 *.log
 tmp/
 temp/
+
+# Terraform variable files (examples remain trackable)
+*.tfvars
+*.tfvars.json

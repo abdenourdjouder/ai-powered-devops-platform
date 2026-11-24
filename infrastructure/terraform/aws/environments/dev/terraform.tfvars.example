@@ -1,0 +1,8 @@
+project_name       = "ai-powered-devops-platform"
+environment        = "dev"
+aws_region         = "us-east-1"
+availability_zones = ["us-east-1a", "us-east-1b"]
+
+# Replace with your own public IPv4 address followed by /32.
+# Example only: 203.0.113.10/32
+admin_cidr = "203.0.113.10/32"
